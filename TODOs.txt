@@ -1,4 +1,4 @@
-Jamu App Webserver		
+---------------------------------Jamu App Webserver		
 	Views/Display	
 		Set input boxes to aligned top vertically
 		Centralize the position of entity lists
